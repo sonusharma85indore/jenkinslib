@@ -1,3 +1,3 @@
-def call($name){
-    echo "My First Share library $name";
+def call(){
+    echo "My First Share library";
 }
