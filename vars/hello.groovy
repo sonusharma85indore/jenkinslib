@@ -1,3 +1,3 @@
-def call(){
-    echo "My First Share library";
+def call(String name){
+    echo "My First Share library ${name}";
 }
